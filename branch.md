@@ -33,7 +33,6 @@
 
 6. Удаление ветки
       git branch -d feature/new-feature
-   
 
 7. Отправка ветки на удалённый репозиторий
       git push origin feature/new-feature
