@@ -36,7 +36,6 @@
 
 7. Отправка ветки на удалённый репозиторий
       git push origin feature/new-feature
-   
 
 8. Получение изменений из удалённой ветки
       git fetch origin
